@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 4\Tarefa 4\Tarefa 4\bin\Debug\Tarefa 4.exe.config
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 4\Tarefa 4\Tarefa 4\bin\Debug\Tarefa 4.exe
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 4\Tarefa 4\Tarefa 4\bin\Debug\Tarefa 4.pdb
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 4\Tarefa 4\Tarefa 4\obj\Debug\Tarefa 4.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 4\Tarefa 4\Tarefa 4\obj\Debug\Tarefa_4.Form1.resources
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 4\Tarefa 4\Tarefa 4\obj\Debug\Tarefa_4.Properties.Resources.resources
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 4\Tarefa 4\Tarefa 4\obj\Debug\Tarefa 4.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 4\Tarefa 4\Tarefa 4\obj\Debug\Tarefa 4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 4\Tarefa 4\Tarefa 4\obj\Debug\Tarefa 4.exe
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 4\Tarefa 4\Tarefa 4\obj\Debug\Tarefa 4.pdb
